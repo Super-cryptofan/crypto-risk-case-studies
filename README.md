@@ -23,3 +23,5 @@ Major risk categories include:
 - Governance manipulation
 - Oracle failures
 - Liquidity collapse
+## Case Study Selection
+The repository will focus on well-known industry incidents that influenced security practices or regulatory discussions.
