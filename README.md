@@ -6,3 +6,10 @@ The goal is to analyze:
 - security vulnerabilities
 - governance breakdowns
 Each case study focuses on lessons learned and prevention strategies.
+## Research Approach
+Each case study will examine:
+1. Background of the protocol
+2. Timeline of the incident
+3. Root cause analysis
+4. Economic impact
+5. Lessons for future protocols
