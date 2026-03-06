@@ -13,3 +13,5 @@ Users could mint or burn UST and LUNA to restore price equilibrium when the stab
 ## Anchor Protocol
 A major driver of Terra adoption was the Anchor lending protocol.
 Anchor offered approximately 20% yield on UST deposits, attracting large amounts of capital.
+## Structural Weakness
+The stability mechanism depended heavily on market confidence and continuous demand for UST.
