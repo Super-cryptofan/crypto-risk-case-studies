@@ -22,3 +22,5 @@ Once the peg weakened, market participants rushed to exit positions, acceleratin
 ## Hyperinflation of LUNA
 As UST redemptions increased, large amounts of LUNA were minted.
 This caused rapid token inflation and price collapse.
+## Market Impact
+The Terra collapse wiped out billions in market value and damaged confidence across the crypto ecosystem.
