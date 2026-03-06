@@ -31,3 +31,5 @@ Losses spread across the industry.
 The incident triggered increased regulatory attention toward stablecoins and crypto lending platforms.
 ## Risk Lessons
 Key lessons include the dangers of reflexive token economics and unsustainable yield incentives.
+## Stablecoin Design Risks
+Algorithmic stablecoins may struggle to maintain stability during extreme market stress.
