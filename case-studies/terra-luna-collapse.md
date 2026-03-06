@@ -17,3 +17,5 @@ Anchor offered approximately 20% yield on UST deposits, attracting large amounts
 The stability mechanism depended heavily on market confidence and continuous demand for UST.
 ## Initial Depeg Event
 In May 2022, large withdrawals from Anchor triggered heavy selling pressure on UST.
+## Market Panic
+Once the peg weakened, market participants rushed to exit positions, accelerating the collapse.
