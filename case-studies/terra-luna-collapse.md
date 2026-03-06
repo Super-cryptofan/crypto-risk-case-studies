@@ -24,3 +24,6 @@ As UST redemptions increased, large amounts of LUNA were minted.
 This caused rapid token inflation and price collapse.
 ## Market Impact
 The Terra collapse wiped out billions in market value and damaged confidence across the crypto ecosystem.
+## Ecosystem Contagion
+Several funds and platforms had significant exposure to Terra assets.
+Losses spread across the industry.
