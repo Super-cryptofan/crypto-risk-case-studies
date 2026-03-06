@@ -11,3 +11,5 @@ FTX maintained close ties with the trading firm Alameda Research, which played a
 Concerns about FTX's balance sheet triggered large withdrawal requests from users.
 ## Exchange Insolvency
 FTX was unable to process withdrawals after liquidity reserves were exhausted.
+## Industry Impact
+The collapse damaged trust in centralized exchanges and triggered significant market volatility.
