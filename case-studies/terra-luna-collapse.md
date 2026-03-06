@@ -27,3 +27,5 @@ The Terra collapse wiped out billions in market value and damaged confidence acr
 ## Ecosystem Contagion
 Several funds and platforms had significant exposure to Terra assets.
 Losses spread across the industry.
+## Regulatory Response
+The incident triggered increased regulatory attention toward stablecoins and crypto lending platforms.
