@@ -16,3 +16,5 @@ The attack exploited a recursive call vulnerability allowing repeated withdrawal
 Approximately 3.6 million ETH were redirected into a child contract controlled by the attacker.
 ## Ethereum Hard Fork
 The incident ultimately led to a controversial Ethereum hard fork that reversed the stolen funds.
+## Ethereum vs Ethereum Classic
+Some community members rejected the fork and continued supporting the original chain, now known as Ethereum Classic.
