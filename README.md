@@ -16,3 +16,10 @@ Each case study will examine:
 ## Why Risk Analysis Matters
 Blockchain systems operate without centralized control.
 Understanding past failures helps developers design safer protocols and helps users recognize systemic risks.
+## Categories of Crypto Risk
+Major risk categories include:
+- Smart contract exploits
+- Economic design failures
+- Governance manipulation
+- Oracle failures
+- Liquidity collapse
