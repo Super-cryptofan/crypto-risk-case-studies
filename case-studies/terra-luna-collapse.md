@@ -35,3 +35,6 @@ Key lessons include the dangers of reflexive token economics and unsustainable y
 Algorithmic stablecoins may struggle to maintain stability during extreme market stress.
 ## Long-Term Industry Effects
 The Terra collapse accelerated discussions about stablecoin regulation and risk management frameworks within the crypto industry
+## Long-Term Industry Effects
+The Terra collapse accelerated discussions around stablecoin regulation and risk management standards.
+Many investors became more cautious about algorithmic stablecoin designs.
