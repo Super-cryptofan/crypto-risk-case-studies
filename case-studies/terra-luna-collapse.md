@@ -4,3 +4,6 @@ Year: 2022
 Overview:
 The Terra ecosystem collapsed after its algorithmic stablecoin UST lost its dollar peg.
 The event erased tens of billions of dollars in market value and triggered a wider crypto market downturn.
+## Background
+Terra was designed as a blockchain ecosystem supporting a family of algorithmic stablecoins.
+The main stablecoin, UST, aimed to maintain a 1 USD peg using a mint-and-burn mechanism involving the LUNA token.
