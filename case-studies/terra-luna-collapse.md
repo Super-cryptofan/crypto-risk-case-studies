@@ -7,3 +7,6 @@ The event erased tens of billions of dollars in market value and triggered a wid
 ## Background
 Terra was designed as a blockchain ecosystem supporting a family of algorithmic stablecoins.
 The main stablecoin, UST, aimed to maintain a 1 USD peg using a mint-and-burn mechanism involving the LUNA token.
+## Peg Mechanism
+The peg relied on arbitrage incentives.
+Users could mint or burn UST and LUNA to restore price equilibrium when the stablecoin deviated from its target price.
