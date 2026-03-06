@@ -25,3 +25,6 @@ Major risk categories include:
 - Liquidity collapse
 ## Case Study Selection
 The repository will focus on well-known industry incidents that influenced security practices or regulatory discussions.
+## Incident Timeline Analysis
+Understanding the sequence of events is essential for identifying root causes.
+Most failures are not single events but chains of technical and economic factors.
