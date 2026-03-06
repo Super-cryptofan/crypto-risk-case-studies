@@ -13,3 +13,5 @@ Concerns about FTX's balance sheet triggered large withdrawal requests from user
 FTX was unable to process withdrawals after liquidity reserves were exhausted.
 ## Industry Impact
 The collapse damaged trust in centralized exchanges and triggered significant market volatility.
+## Governance Lessons
+Strong internal controls and transparent accounting are critical for centralized platforms.
