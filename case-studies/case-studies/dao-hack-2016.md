@@ -18,3 +18,5 @@ Approximately 3.6 million ETH were redirected into a child contract controlled b
 The incident ultimately led to a controversial Ethereum hard fork that reversed the stolen funds.
 ## Ethereum vs Ethereum Classic
 Some community members rejected the fork and continued supporting the original chain, now known as Ethereum Classic.
+## Security Lessons
+The attack demonstrated the importance of secure smart contract design and formal auditing practices.
