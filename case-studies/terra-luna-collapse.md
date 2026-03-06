@@ -19,3 +19,6 @@ The stability mechanism depended heavily on market confidence and continuous dem
 In May 2022, large withdrawals from Anchor triggered heavy selling pressure on UST.
 ## Market Panic
 Once the peg weakened, market participants rushed to exit positions, accelerating the collapse.
+## Hyperinflation of LUNA
+As UST redemptions increased, large amounts of LUNA were minted.
+This caused rapid token inflation and price collapse.
