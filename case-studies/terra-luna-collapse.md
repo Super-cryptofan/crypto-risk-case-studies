@@ -33,3 +33,5 @@ The incident triggered increased regulatory attention toward stablecoins and cry
 Key lessons include the dangers of reflexive token economics and unsustainable yield incentives.
 ## Stablecoin Design Risks
 Algorithmic stablecoins may struggle to maintain stability during extreme market stress.
+## Long-Term Industry Effects
+The Terra collapse accelerated discussions about stablecoin regulation and risk management frameworks within the crypto industry
