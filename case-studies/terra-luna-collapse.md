@@ -29,3 +29,5 @@ Several funds and platforms had significant exposure to Terra assets.
 Losses spread across the industry.
 ## Regulatory Response
 The incident triggered increased regulatory attention toward stablecoins and crypto lending platforms.
+## Risk Lessons
+Key lessons include the dangers of reflexive token economics and unsustainable yield incentives.
