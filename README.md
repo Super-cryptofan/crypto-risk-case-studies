@@ -28,3 +28,6 @@ The repository will focus on well-known industry incidents that influenced secur
 ## Incident Timeline Analysis
 Understanding the sequence of events is essential for identifying root causes.
 Most failures are not single events but chains of technical and economic factors.
+## Security Audits
+Security audits reduce risk but cannot guarantee safety.
+Continuous monitoring and responsible disclosure programs remain essential.
