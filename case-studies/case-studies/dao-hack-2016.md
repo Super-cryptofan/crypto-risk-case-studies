@@ -10,3 +10,5 @@ It became one of the largest early experiments in decentralized governance.
 ## Background
 The DAO raised over 150 million USD worth of ETH during its crowdfunding phase.
 It became one of the largest early experiments in decentralized governance.
+## Smart Contract Vulnerability
+The attack exploited a recursive call vulnerability allowing repeated withdrawals before the balance was updated.
