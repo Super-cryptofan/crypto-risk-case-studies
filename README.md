@@ -13,3 +13,6 @@ Each case study will examine:
 3. Root cause analysis
 4. Economic impact
 5. Lessons for future protocols
+## Why Risk Analysis Matters
+Blockchain systems operate without centralized control.
+Understanding past failures helps developers design safer protocols and helps users recognize systemic risks.
