@@ -33,3 +33,8 @@ Security audits reduce risk but cannot guarantee safety.
 Continuous monitoring and responsible disclosure programs remain essential.
 ## Governance Risks
 Decentralized governance introduces challenges such as voter apathy, concentration of voting power, and delayed response to emergencies.
+## Current Case Studies
+- Terra / LUNA collapse
+- FTX exchange collapse
+- The DAO hack
+- Bridge exploit patterns
