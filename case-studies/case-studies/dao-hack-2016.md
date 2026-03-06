@@ -12,3 +12,5 @@ The DAO raised over 150 million USD worth of ETH during its crowdfunding phase.
 It became one of the largest early experiments in decentralized governance.
 ## Smart Contract Vulnerability
 The attack exploited a recursive call vulnerability allowing repeated withdrawals before the balance was updated.
+## Funds Drained
+Approximately 3.6 million ETH were redirected into a child contract controlled by the attacker.
