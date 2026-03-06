@@ -10,3 +10,6 @@ The main stablecoin, UST, aimed to maintain a 1 USD peg using a mint-and-burn me
 ## Peg Mechanism
 The peg relied on arbitrage incentives.
 Users could mint or burn UST and LUNA to restore price equilibrium when the stablecoin deviated from its target price.
+## Anchor Protocol
+A major driver of Terra adoption was the Anchor lending protocol.
+Anchor offered approximately 20% yield on UST deposits, attracting large amounts of capital.
