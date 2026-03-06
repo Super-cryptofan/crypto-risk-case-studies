@@ -14,3 +14,5 @@ It became one of the largest early experiments in decentralized governance.
 The attack exploited a recursive call vulnerability allowing repeated withdrawals before the balance was updated.
 ## Funds Drained
 Approximately 3.6 million ETH were redirected into a child contract controlled by the attacker.
+## Ethereum Hard Fork
+The incident ultimately led to a controversial Ethereum hard fork that reversed the stolen funds.
