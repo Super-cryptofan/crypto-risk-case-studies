@@ -7,3 +7,5 @@ FTX was a major global cryptocurrency exchange that collapsed after revelations 
 FTX rapidly became one of the largest crypto exchanges, serving millions of users worldwide.
 ## Alameda Research
 FTX maintained close ties with the trading firm Alameda Research, which played a major role in the crisis.
+## Liquidity Crisis
+Concerns about FTX's balance sheet triggered large withdrawal requests from users.
