@@ -40,3 +40,11 @@ Decentralized governance introduces challenges such as voter apathy, concentrati
 - Bridge exploit patterns
 ## Repository Goal
 The purpose of this project is to document historical crypto failures and highlight lessons for safer protocol design.
+## Current Case Studies
+- Terra / LUNA collapse
+- FTX exchange collapse
+- The DAO hack
+- Bridge exploit patterns
+- Flash loan attacks
+- Nomad bridge exploit
+- Mt. Gox collapse
