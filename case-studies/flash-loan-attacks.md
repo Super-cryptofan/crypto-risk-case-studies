@@ -6,3 +6,5 @@ Attackers have used flash loans to manipulate DeFi protocols and extract funds.
 ## How Flash Loans Work
 Flash loans are atomic transactions.
 If the loan is not repaid within the same block, the entire transaction is reversed.
+## Exploit Strategy
+Attackers combine flash loans with price manipulation or protocol logic flaws to drain funds.
