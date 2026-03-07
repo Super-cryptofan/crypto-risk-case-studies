@@ -12,3 +12,5 @@ Attackers combine flash loans with price manipulation or protocol logic flaws to
 Many flash loan attacks rely on manipulating on-chain price feeds used by DeFi protocols.
 ## Example Incidents
 Several DeFi protocols have suffered flash loan attacks including lending platforms and decentralized exchanges.
+## Defense Strategies
+Protocols can reduce flash loan risk by using time-weighted average prices and additional validation logic.
