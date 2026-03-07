@@ -48,3 +48,5 @@ The purpose of this project is to document historical crypto failures and highli
 - Flash loan attacks
 - Nomad bridge exploit
 - Mt. Gox collapse
+- Poly Network hack
+- Parity wallet bug
