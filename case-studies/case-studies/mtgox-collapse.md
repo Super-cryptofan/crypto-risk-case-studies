@@ -9,3 +9,5 @@ At its peak, Mt. Gox handled the majority of global Bitcoin trading volume.
 The exchange suffered multiple security breaches and operational problems.
 ## Missing Bitcoin
 Hundreds of thousands of Bitcoin were reported missing from the exchange.
+## Bankruptcy Filing
+Mt. Gox eventually filed for bankruptcy protection after suspending withdrawals.
