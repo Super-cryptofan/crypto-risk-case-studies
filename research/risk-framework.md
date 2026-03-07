@@ -10,3 +10,5 @@ Each case study in this repository will be mapped to one or more risk categories
 Better auditing, incentive design, and governance processes can reduce systemic risk.
 ## Infrastructure Risks
 Infrastructure failures can include bridge vulnerabilities, exchange collapses, and validator compromises.
+## Ecosystem Interdependence
+Failures in one major protocol can cascade across multiple platforms due to interconnected liquidity and shared users.
