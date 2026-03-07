@@ -9,3 +9,5 @@ The Parity wallet relied on a shared library contract used by many deployed wall
 A user accidentally triggered a function that disabled the wallet library contract.
 ## Frozen Funds
 Because the library contract was disabled, many wallets lost the ability to access their funds.
+## Industry Impact
+The event highlighted the risks of shared contract dependencies.
