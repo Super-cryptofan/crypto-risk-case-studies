@@ -38,3 +38,5 @@ Decentralized governance introduces challenges such as voter apathy, concentrati
 - FTX exchange collapse
 - The DAO hack
 - Bridge exploit patterns
+## Repository Goal
+The purpose of this project is to document historical crypto failures and highlight lessons for safer protocol design.
