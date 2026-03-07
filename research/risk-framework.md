@@ -4,3 +4,5 @@ This repository organizes incidents into several major risk categories:
 - Economic design failures
 - Governance breakdowns
 - Infrastructure weaknesses
+## Risk Classification
+Each case study in this repository will be mapped to one or more risk categories.
