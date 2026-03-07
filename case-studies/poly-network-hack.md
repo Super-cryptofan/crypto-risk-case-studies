@@ -10,3 +10,5 @@ The attacker was able to manipulate the cross-chain contract logic and redirect 
 The exploit initially resulted in the theft of over 600 million dollars in crypto assets.
 ## Unusual Outcome
 The attacker later began returning the stolen funds, claiming the attack was intended to expose the vulnerability.
+## Security Lessons
+The incident demonstrated the complexity and risks of cross-chain infrastructure.
