@@ -11,3 +11,5 @@ The exchange suffered multiple security breaches and operational problems.
 Hundreds of thousands of Bitcoin were reported missing from the exchange.
 ## Bankruptcy Filing
 Mt. Gox eventually filed for bankruptcy protection after suspending withdrawals.
+## Industry Impact
+The collapse severely damaged trust in early cryptocurrency exchanges.
