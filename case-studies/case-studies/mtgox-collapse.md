@@ -7,3 +7,5 @@ Mt. Gox was once the largest Bitcoin exchange before collapsing due to massive l
 At its peak, Mt. Gox handled the majority of global Bitcoin trading volume.
 ## Security Breaches
 The exchange suffered multiple security breaches and operational problems.
+## Missing Bitcoin
+Hundreds of thousands of Bitcoin were reported missing from the exchange.
