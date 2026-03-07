@@ -8,3 +8,5 @@ Flash loans are atomic transactions.
 If the loan is not repaid within the same block, the entire transaction is reversed.
 ## Exploit Strategy
 Attackers combine flash loans with price manipulation or protocol logic flaws to drain funds.
+## Price Oracle Manipulation
+Many flash loan attacks rely on manipulating on-chain price feeds used by DeFi protocols.
