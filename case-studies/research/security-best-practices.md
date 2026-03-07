@@ -2,3 +2,5 @@
 Strong security practices are essential for blockchain applications handling large financial value.
 ## Code Audits
 Independent security audits can help identify vulnerabilities before deployment.
+## Bug Bounty Programs
+Bug bounty programs incentivize security researchers to report vulnerabilities responsibly.
