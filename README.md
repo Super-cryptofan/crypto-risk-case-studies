@@ -50,3 +50,10 @@ The purpose of this project is to document historical crypto failures and highli
 - Mt. Gox collapse
 - Poly Network hack
 - Parity wallet bug
+## Research Areas Covered
+This repository currently analyzes:
+- historical crypto failures
+- DeFi exploits
+- bridge vulnerabilities
+- exchange collapses
+- security best practices
