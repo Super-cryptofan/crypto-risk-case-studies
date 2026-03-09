@@ -14,3 +14,5 @@ Infrastructure failures can include bridge vulnerabilities, exchange collapses, 
 Failures in one major protocol can cascade across multiple platforms due to interconnected liquidity and shared users.
 ## Operational Risks
 Operational failures such as poor key management or governance mistakes can lead to major incidents.
+## Risk Evaluation
+Each protocol should regularly assess risks across technical, economic, and governance dimensions.
