@@ -8,3 +8,5 @@ Bug bounty programs incentivize security researchers to report vulnerabilities r
 Security should rely on multiple layers of protection rather than a single safeguard.
 ## Monitoring Systems
 Real-time monitoring tools can detect unusual activity and allow faster incident response.
+## Upgrade Procedures
+Protocols should design safe upgrade mechanisms to fix vulnerabilities without disrupting users.
