@@ -57,3 +57,7 @@ This repository currently analyzes:
 - bridge vulnerabilities
 - exchange collapses
 - security best practices
+## Repository Structure
+- case-studies/
+- research/
+Case studies focus on historical incidents while research files analyze broader security patterns.
