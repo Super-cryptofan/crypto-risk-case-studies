@@ -6,3 +6,6 @@ Typical emergency steps include:
 - pausing vulnerable contracts
 - alerting users
 - investigating the root cause
+## Communication Strategy
+Transparent communication helps maintain trust during security incidents.
+Teams should quickly publish updates explaining the situation and mitigation steps.
