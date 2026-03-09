@@ -61,3 +61,5 @@ This repository currently analyzes:
 - case-studies/
 - research/
 Case studies focus on historical incidents while research files analyze broader security patterns.
+## Project Milestone
+This repository has reached 100 commits documenting major crypto security incidents and research insights.
